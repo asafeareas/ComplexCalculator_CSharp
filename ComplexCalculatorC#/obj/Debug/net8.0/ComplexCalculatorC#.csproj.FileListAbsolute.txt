@@ -1,0 +1,14 @@
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\bin\Debug\net8.0\ComplexCalculatorC#.exe
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\bin\Debug\net8.0\ComplexCalculatorC#.deps.json
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\bin\Debug\net8.0\ComplexCalculatorC#.runtimeconfig.json
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\bin\Debug\net8.0\ComplexCalculatorC#.dll
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\bin\Debug\net8.0\ComplexCalculatorC#.pdb
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\obj\Debug\net8.0\ComplexCalculatorC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\obj\Debug\net8.0\ComplexCalculatorC#.AssemblyInfoInputs.cache
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\obj\Debug\net8.0\ComplexCalculatorC#.AssemblyInfo.cs
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\obj\Debug\net8.0\ComplexCalculatorC#.csproj.CoreCompileInputs.cache
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\obj\Debug\net8.0\ComplexCalculatorC#.dll
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\obj\Debug\net8.0\refint\ComplexCalculatorC#.dll
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\obj\Debug\net8.0\ComplexCalculatorC#.pdb
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\obj\Debug\net8.0\ComplexCalculatorC#.genruntimeconfig.cache
+C:\Users\asafe\Documents\ComplexCalculator\ComplexCalculatorC#\obj\Debug\net8.0\ref\ComplexCalculatorC#.dll
